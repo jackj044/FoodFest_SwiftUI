@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "bc268c28fb170f494de9e9927c371b8342979ece",
+        "version" : "5.7.1"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "e8625b80c413457b13ea9be75d07f6e9f5830c19",
+        "version" : "7.7.0"
+      }
+    },
+    {
+      "identity" : "qgrid",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Q-Mobile/QGrid",
+      "state" : {
+        "revision" : "804e59f8cb9f66b226685e9369fb82029742b83a",
+        "version" : "0.1.4"
+      }
+    }
+  ],
+  "version" : 2
+}
