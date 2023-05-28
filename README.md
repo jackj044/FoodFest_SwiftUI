@@ -37,7 +37,7 @@ https://www.themealdb.com/api.php
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `i`      | `string` | **Id of Menu Item to fetch related Menu Item Details** |
+| `id`      | `string` | **Id of Menu Item to fetch related Menu Item Details** |
 
 
 
